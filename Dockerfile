@@ -1,4 +1,3 @@
-
 FROM ghcr.io/seisscoped/container-base
 
 LABEL maintainer="Nate Groebner"
